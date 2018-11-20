@@ -1,0 +1,8 @@
+https://gitlab.com/test_group_kth/test.git
+
+git remote add origin https://gitlab.com/test_group_kth/test.git
+git push -u origin master
+
+
+git remote add origin https://github.com/bingates/Python.git
+git push -u origin master
